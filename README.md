@@ -17,7 +17,9 @@ machine learning algorithms were trained on to the data and their predictions we
 using different performance metrics. The best-performing models were further tuned in order to
 obtain a model with the most accurate prediction for our use case.
 
-Description of the data-set The dataset was taken from Kaggle. The data was collected from
+### Description of the data-set 
+
+The dataset was taken from Kaggle. The data was collected from
 the Taiwan Economic Journal and covers the time period from 1999 - 2009. Whether a company
 was bankrupt or not was defined based on the business regulations of the Taiwan Stock Exchange.
 It contains 95 Financial metrics and the target class which states whether a company is bankrupt or
